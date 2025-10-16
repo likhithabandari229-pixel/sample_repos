@@ -1,0 +1,3 @@
+today I hv created a new git folder 
+by giving the name "newgitfolder"
+using the git bash.
